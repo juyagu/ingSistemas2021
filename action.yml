@@ -4,4 +4,4 @@ author: 'Ulrich von Eggers'
 
 runs:
     using: 'node12'
-    main: ''
+    main: 'dist/index.js'

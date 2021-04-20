@@ -1,0 +1,7 @@
+name: 'Ingenieria Sistemas 2021'
+description: 'Vamos a ver si tiramos un pull request'
+author: 'Ulrich von Eggers'
+
+runs:
+    using: 'node12'
+    main: ''
